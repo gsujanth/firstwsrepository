@@ -1,6 +1,8 @@
 package com.sujanth.bootrestws.beans;
 
 public class Student {
+	
+	//this is model class
 
 	String name;
 	int age;
