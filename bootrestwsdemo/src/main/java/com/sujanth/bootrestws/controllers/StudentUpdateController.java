@@ -18,4 +18,5 @@ public class StudentUpdateController {
 		System.out.println("In updateStudentRecord");
 		return StudentRegistration.getInstance().upDateStudent(stdn);
 	}
+	//
 }
